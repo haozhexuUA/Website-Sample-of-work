@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align:center;
+}
+table{
+	width: 60%;
+}
+body{
+background-color: grey;
+}
+h2{
+color:pink;
+}
+h4{
+color:white;
+}
